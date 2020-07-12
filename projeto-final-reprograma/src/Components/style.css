@@ -1,0 +1,42 @@
+.text-main {
+    color: #B258EA;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.catalog-images{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.catalog-images img:hover, img:active{
+    opacity: 15%;
+    width: 100%;
+    
+}
+
+.catalog-images-line1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 250px;
+    margin-bottom: 70px;
+}
+
+.catalog-images-line2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 70px;
+}
+
+.catalog-images-line3{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+
