@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+
+.title-color{
+    color: #B258EA;
+}
+
+.title {
+    position: absolute;
+    top: 95px;
+    left: 180px;
+    color: #3f3c3c;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main-container {
+    height: 230px;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 50px;
+}
+
+.img-header {
+    width: 100%;
+    object-fit: cover;
+    object-position: 0px 280px;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+

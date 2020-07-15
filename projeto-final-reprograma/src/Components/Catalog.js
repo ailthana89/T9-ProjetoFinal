@@ -1,12 +1,12 @@
 import React from 'react';
-import './style.css'
+import './Catalog.css'
 
 const Components = () =>{
     return(
         <section className="catalog-images">
             <div className="catalog-images-line1">
                 <div>
-                    <img link="https://www.playstation.com/pt-br/games/horizon-zero-dawn-ps4/" src={require('../Image/horizon.png')} alt="Capa Jogo Horizon Zero Down"></img>
+                    <img src={require('../Image/horizon.png')} alt="Capa Jogo Horizon Zero Down"></img>
                 </div>
                 <div>
                     <img src={require('../Image/diablo.png')} alt="Capa Jogo Diablo 4"></img>

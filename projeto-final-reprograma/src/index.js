@@ -1,9 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Components from './Components'
-import Pages from './Pages'
-// import Footer from './Components/Footer'
-
+import Routes from './Routes/Routes'
+import Section from './Pages/Section/Section'
+import Components from './Components/Catalog'
 import App from './App';
 import './index.css'
 import * as serviceWorker from './serviceWorker';
@@ -11,9 +10,9 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <Pages />
+    <Routes/>
+    <Section />
     <Components />
-    {/* <Footer/> */}
   </React.StrictMode>,
   document.getElementById('root')
 );

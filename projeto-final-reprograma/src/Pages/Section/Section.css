@@ -1,0 +1,74 @@
+.text-container {
+    background-color: rgb(9, 1, 17);
+    padding: 110px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+.text-container div:hover{
+    opacity: 30%;
+}
+
+.text1{
+    border-style: solid;
+    border-width: 2px;
+    padding: 40px;
+    position: absolute;
+    top: 330px;
+    left: 200px;
+    color: #3d244d;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    
+}
+
+.text2{
+    border-style: solid;
+    border-width: 2px;
+    padding: 40px;
+    position: absolute;
+    top: 330px;
+    right: 190px;
+    color: #3d244d;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+
+.text3{
+    border-style: solid;
+    border-width: 2px;
+    padding: 15px;
+    position: absolute;
+    top: 1420px;
+    right: 600px;
+    color: #3d244d;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+.text4{
+    border-style: solid;
+    border-width: 1px;
+    padding: 60px;
+    position: absolute;
+    top: 320px;
+    right: 505px;
+    color:#7A5E8B;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.text5{
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;;
+    position: absolute;
+    top: 545px;
+    right: 650px;
+    color: #3d244d;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
