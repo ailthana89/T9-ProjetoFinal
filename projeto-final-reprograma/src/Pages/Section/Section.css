@@ -15,9 +15,9 @@
     border-width: 2px;
     padding: 40px;
     position: absolute;
-    top: 330px;
+    top: 570px;
     left: 200px;
-    color: #3d244d;
+    color: #572c72;
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     
@@ -28,9 +28,9 @@
     border-width: 2px;
     padding: 40px;
     position: absolute;
-    top: 330px;
+    top: 570px;
     right: 190px;
-    color: #3d244d;
+    color: #572c72;
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
 }
@@ -40,7 +40,7 @@
     border-width: 2px;
     padding: 15px;
     position: absolute;
-    top: 1420px;
+    top: 0px;
     right: 600px;
     color: #3d244d;
     font-family: 'Montserrat', sans-serif;
@@ -51,9 +51,9 @@
     border-width: 1px;
     padding: 60px;
     position: absolute;
-    top: 320px;
+    top: 560px;
     right: 505px;
-    color:#7A5E8B;
+    color:#8350a3;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
 }
@@ -66,9 +66,9 @@
     padding-top: 20px;
     padding-bottom: 20px;;
     position: absolute;
-    top: 545px;
+    top: 780px;
     right: 650px;
-    color: #3d244d;
+    color: #532e6b;
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
 }

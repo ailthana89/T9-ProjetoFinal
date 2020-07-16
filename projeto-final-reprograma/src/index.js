@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Routes from './Routes/Routes'
+import Home from './Pages/Home/Home'
 import Section from './Pages/Section/Section'
 import Components from './Components/Catalog'
 import App from './App';
@@ -10,9 +10,9 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <Routes/>
-    <Section />
-    <Components />
+    <Home/>
+    <Section/>
+    <Components/>  
   </React.StrictMode>,
   document.getElementById('root')
 );

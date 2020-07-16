@@ -1,15 +1,14 @@
 import React from 'react';
 import './Main.css'
-import Catalog from '../../Components/Catalog'
-import { Link } from 'react-router-dom';
 
-const PageMain = () =>{
+const Main = () =>{
     return(
-    <Link to={Catalog}></Link>
-
-    
+        <div>
+            <p>Isso</p>
+        </div>
+   
 
     )}
 
 
-export default PageMain;
+export default Main;

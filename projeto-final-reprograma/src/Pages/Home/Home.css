@@ -8,14 +8,15 @@ body{
 
 .title {
     position: absolute;
-    top: 95px;
-    left: 180px;
-    color: #3f3c3c;
+    top: 240px;
+    left: 105px;
+    color: #585555;
+    font-size: 45px;
     font-family: 'Roboto', sans-serif;
 }
 
 .main-container {
-    height: 230px;
+    height: 500px;
     background-size: cover;
     display: flex;
     align-items: flex-end;
