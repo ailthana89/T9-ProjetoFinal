@@ -37,17 +37,6 @@
 
 .text3{
     border-style: solid;
-    border-width: 2px;
-    padding: 15px;
-    position: absolute;
-    top: 0px;
-    right: 600px;
-    color: #3d244d;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
-}
-.text4{
-    border-style: solid;
     border-width: 1px;
     padding: 60px;
     position: absolute;
@@ -58,7 +47,7 @@
     font-size: 20px;
 }
 
-.text5{
+.text4{
     border-style: solid;
     border-width: 1px;
     padding-left: 100px;

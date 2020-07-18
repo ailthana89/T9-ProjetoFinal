@@ -1,0 +1,14 @@
+.img-tomb{
+    width: 100%;
+    object-fit: cover;
+    opacity: 0.4;
+}
+
+.twitch-container-tomb{
+    width: 500px;
+    height: 300px;;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+

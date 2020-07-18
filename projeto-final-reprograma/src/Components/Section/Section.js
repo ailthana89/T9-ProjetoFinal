@@ -13,13 +13,10 @@ const Section = () =>{
                         <p>Who run the world?</p>
                         <p>Girls!</p>
                     </div>
-                    {/* <div className="text3">
-                        <p>Boy don't even try to touch this</p>
-                    </div> */}
-                    <div className="text4">
+                    <div className="text3">
                         <p>Welcome to your gaming community!</p>
                     </div>
-                    <div className="text5">
+                    <div className="text4">
                         <p>Games</p>
                     </div>
                  </div>

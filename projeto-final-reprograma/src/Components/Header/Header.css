@@ -1,0 +1,28 @@
+.title-color{
+    color: #B258EA;
+}
+
+.title {
+    position: absolute;
+    top: 240px;
+    left: 105px;
+    color: #585555;
+    font-size: 45px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main-container {
+    height: 500px;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 50px;
+}
+
+.img-header {
+    width: 100%;
+    object-fit: cover;
+    object-position: 0px 280px;
+   
+}
+
