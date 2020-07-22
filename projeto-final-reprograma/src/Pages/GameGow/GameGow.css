@@ -1,13 +1,21 @@
 .img-gow{
     width: 100%;
-    object-fit: cover;
-    opacity: 0.7;
-    
+    opacity: 0.3;
 }
 
-.twitch-container-gow{
-   position: absolute;
-   position: absolute;
-   top: 150px;
-   left: 150px;
+.logo-gow{ 
+    position: absolute;
+    top: 60px;
+    left: 320px;
+    width: 410px;
+}
+
+
+
+.twitch-containe-gow{
+    width: 500px;
+    height: 300px;;
+    position: absolute;
+    top: 220px;
+    left: 200px;
 }

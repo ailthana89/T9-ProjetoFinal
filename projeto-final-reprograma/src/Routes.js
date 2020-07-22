@@ -1,9 +1,7 @@
 import React from 'react';
 import Home from './Pages/Home/Home';
-import GameHorizon from './Pages/GameHorizon/GameHorizon';
-import GameTombRaider from './Pages/GameTombRaider/GameTombRaider';
-import Gamelol from './Pages/Gamelol/Gamelol';
-import GameGow from './Pages/GameGow/GameGow'
+import VideoPlayer from './Pages/VideoPlayer/VideoPlayer';
+import dataJson from './data.json'
 import { BrowserRouter, Switch, Route } from 'react-router-dom'
 
 const Routes = () =>{
@@ -11,10 +9,30 @@ const Routes = () =>{
     <BrowserRouter>
         <Switch>
             <Route exact path='/' component={Home}/>
-            <Route exact path='/GameHorizon' component={GameHorizon}/>
-            <Route exact path='/GameTombRaider' component={GameTombRaider}/>
-            <Route exact path='/Gamelol' component={Gamelol}/>
-            <Route exact path='/GameGow' component={GameGow}/>
+            <Route path='/GameHorizon'>
+                <VideoPlayer data={dataJson.GameHorizon}/>
+            </Route>
+            <Route path='/GameTombRaider'>
+                <VideoPlayer data={dataJson.GameTombRaider}/>
+            </Route>
+            <Route path='/Gamelol'>
+                <VideoPlayer data={dataJson.Gamelol}/>
+            </Route>
+            <Route path='/GameGow'>
+                <VideoPlayer data={dataJson.GameGow}/>
+            </Route>
+            <Route path='/GameCreed'>
+                <VideoPlayer data={dataJson.GameCreed}/>
+            </Route>
+            <Route path='/GameLast'>
+                <VideoPlayer data={dataJson.GameLast}/>
+            </Route>
+            <Route path='/GameZelda'>
+                <VideoPlayer data={dataJson.GameZelda}/>
+            </Route>
+            <Route path='/GameDandara'>
+                <VideoPlayer data={dataJson.GameDandara}/>
+            </Route>
         </Switch>
     </BrowserRouter>
     )

@@ -1,0 +1,93 @@
+{ 
+    "GameHorizon":{
+    "name": "KLB_Media",
+    "text":
+      "Welcome To The Mango Nation! Im a variety streamer from Canada. I'm always playing Overwatch, but also love trying out new games. I am currently playing Dead By Daylight, The Walking Dead and GTAV to name a few.",
+    "socialMedia": {
+      "twitch": "https://www.twitch.tv/klb_media/about",
+      "twitter": "https://twitter.com/klbmedia?lang=en",
+      "instagram": "https://www.instagram.com/klb_media/?hl=en"
+    },
+    "video": "https://www.twitch.tv/videos/631931328"
+  },
+    "GameTombRaider":{
+    "name": "Nana6850",
+    "text":
+      "Ich bin die Nana. Manche nennen mich Nanosch manche Naco.. such dir aus wie du mich nennen möchtest. Wenn ich anfange zu erzählen was ich alles spiele, sind wie morgen noch hier, aber zu den Hauptgames gehören u. A. 'The Witcher 3'. ",
+    "socialMedia": {
+      "twitch": "https://www.twitch.tv/nana6850",
+      "twitter": "",
+      "instagram": "https://www.instagram.com/naciye.svn/"
+    },
+    "video": "https://www.twitch.tv/videos/682488544"
+  },
+    "Gamelol":{
+    "name": "StreamieBR",
+    "text":
+      "Somos uma comunidade LGBTQIA+ inclusiva, fazemos MUITOOOS sorteios de RP e sempre comentamos as novidades que saem no League of Legends. Você vai fazer muitos amigos novos aqui!",
+    "socialMedia": {
+      "twitch": "https://www.twitch.tv/streamiebr",
+      "twitter": "https://twitter.com/streamiebr/",
+      "instagram": "https://www.instagram.com/streamiebr/"
+    },
+    "video": "https://www.twitch.tv/videos/676054587"
+  },
+    "GameGow":{
+    "name": "hedwidgeon",
+    "text":
+      "Call me Widgey (she/her)! Variety streamer, programmer, and full time lover of Rufus, Harry Potter, cows, chocolate, caffeine, singing, and all sorts of things. Thank you for choosing to hang out with me!",
+    "socialMedia": {
+      "twitch": "https://www.twitch.tv/hedwidgeon",
+      "twitter": "https://twitter.com/hedwidgeon",
+      "instagram": ""
+    },
+    "video": "https://www.twitch.tv/videos/661742113"
+  },
+    "GameCreed":{
+    "id": "creed",
+    "name": "KaraudoWL",
+    "text":
+      "Всем привет меня зовут Юля (Karaudo) и я приветствую вас на своем канале! Вступайте в нашу армию Юлианцев!",
+    "socialMedia": {
+      "twitch": "https://www.twitch.tv/karaudowl",
+      "twitter": "",
+      "instagram": "https://www.instagram.com/karaudo_wl/"
+    },
+    "video": "https://www.twitch.tv/videos/682548423"
+  },
+    "GameLast":{
+    "name": "storymodebae",
+    "text":
+      "Briana, but you can call me Bri. I've been gaming since I was about 5 years old, with my first game being Crash Bandicoot 2, then Spyro and Frogger shortly after. I enjoy anything with a good story, hence the name Storymode Bae. I also enjoy eating and being extra and goofy, so please expect that throughout my streams. I love meeting new people, so please don't hesitate to pop by just to say hi!",
+    "socialMedia": {
+      "twitch": "https://www.twitch.tv/storymodebae",
+      "twitter": "https://twitter.com/storymodebae",
+      "instagram": "https://www.instagram.com/storymodebae/"
+    },
+    "video": "https://www.twitch.tv/videos/678801520"
+  },
+    "GameZelda":{
+    "name": "BlackGirlGamers",
+    "text":
+      "Official Twitch Channel for the Black Girl Gamers platform! Your spot for all things Black Girl Gaming! Broadcasting streams from our members & game nights!",
+    "socialMedia": {
+      "twitch": "https://www.twitch.tv/blackgirlgamers/about",
+      "twitter": "https://twitter.com/blackgirlgamers",
+      "instagram": "https://www.instagram.com/theblackgirlgamers/"
+    },
+    "video": "https://www.twitch.tv/videos/663047246"
+  },
+    "GameDandara":{
+    "name": "underlineaisu",
+    "id": "dandara",
+    "text":
+      "Olá! Sou a Bia (aisu, aisutee, ice), tenho 28 anos, moro em SP com o maridão e nossa filha de 4 anos, a Zelda! Eu jogo de tudo, mas principalmente jogos indies e single player focados em narrativa. ",
+    "socialMedia": {
+      "twitch": "https://www.twitch.tv/underlineaisu",
+      "twitter": "https://twitter.com/_aisu",
+      "instagram": "https://www.instagram.com/_aisu/"
+    },
+    "video": "https://www.twitch.tv/videos/665092155"
+  }
+    
+}

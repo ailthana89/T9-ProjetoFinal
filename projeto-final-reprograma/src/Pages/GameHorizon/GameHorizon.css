@@ -2,13 +2,13 @@ body{
     background-color: rgb(0, 0, 0);
 }
 .img-horizon{
-    width: 450px;
-    opacity: 0.10;
+    width: 100%;
+    opacity: 0.5;
 }
 
 .logo-horizon{
     position: absolute;
-    top: 70px;
+    top: 80px;
     left: 730px;
     width: 300px;
 }
@@ -17,7 +17,60 @@ body{
     width: 500px;
     height: 300px;;
     position: absolute;
-    top: 250px;
+    top: 230px;
     right: 450px;
+}
+
+.info-twitch{
+    position: absolute;
+    top: 230px;
+    left: 200px;
+    width: 300px;
+    height: 360px;
+    color: snow;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 20px;
+}
+
+.img-card{
+    border-radius: 300px;
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: px;
+    margin-left: 70px;
+}
+.title-card{
+    margin: 10px;
+    margin-left: 70px;
+    font-size: 20px;
+    margin-bottom: 20px;;
+}
+
+.text-card{
+    margin: 8px;
+}
+
+.info-card{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+.redes-container{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   margin: 20px;
+}
+
+.redes-sociais{
+   width: 20px;
+   margin-bottom: 10px;
+}
+
+p{
+font-size: 12px;
 }
 

@@ -1,0 +1,12 @@
+.img-dandara{
+    width: 100%;
+    opacity: 0.8;
+}
+
+.twitch-container-dandara{
+    width: 500px;
+    height: 300px;;
+    position: absolute;
+    top: 290px;
+    left: 170px;
+}

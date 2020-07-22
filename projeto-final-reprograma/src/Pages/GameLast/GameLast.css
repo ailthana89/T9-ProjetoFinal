@@ -1,0 +1,12 @@
+.img-last{
+    width: 100%;
+    opacity: 0.8;
+}
+
+.twitch-container-last{
+    width: 500px;
+    height: 300px;;
+    position: absolute;
+    top: 260px;
+    right: 550px;
+}

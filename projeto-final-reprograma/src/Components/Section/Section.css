@@ -3,7 +3,6 @@
     padding: 110px;
     margin-left: 100px;
     margin-right: 100px;
-
 }
 
 .text-container div:hover{
@@ -15,7 +14,7 @@
     border-width: 2px;
     padding: 40px;
     position: absolute;
-    top: 570px;
+    top: 600px;
     left: 200px;
     color: #572c72;
     font-family: 'Montserrat', sans-serif;
@@ -28,7 +27,7 @@
     border-width: 2px;
     padding: 40px;
     position: absolute;
-    top: 570px;
+    top: 600px;
     right: 190px;
     color: #572c72;
     font-family: 'Montserrat', sans-serif;
@@ -40,7 +39,7 @@
     border-width: 1px;
     padding: 60px;
     position: absolute;
-    top: 560px;
+    top: 590px;
     right: 505px;
     color:#8350a3;
     font-family: 'Montserrat', sans-serif;
@@ -55,9 +54,10 @@
     padding-top: 20px;
     padding-bottom: 20px;;
     position: absolute;
-    top: 780px;
+    top: 815px;
     right: 650px;
     color: #532e6b;
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
 }
+

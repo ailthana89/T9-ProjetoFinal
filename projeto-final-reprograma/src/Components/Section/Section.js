@@ -3,7 +3,8 @@ import './Section.css'
 
 const Section = () =>{
     return(
-            <div>  
+            <div> 
+              
                  <div className="text-container">
                     <div className="text1">
                         <p>What we run?</p>
@@ -20,6 +21,7 @@ const Section = () =>{
                         <p>Games</p>
                     </div>
                  </div>
+               
              </div>
         
     )       

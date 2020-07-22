@@ -1,0 +1,20 @@
+
+.img-zelda{
+    width: 100%;
+    opacity: 0.8;
+}
+
+.logo-zelda{
+    position: absolute;
+    top: 30px;
+    left: 500px;
+    width: 300px;
+}
+
+.twitch-container-zelda{
+    width: 500px;
+    height: 300px;;
+    position: absolute;
+    top: 290px;
+    left: 170px;
+}

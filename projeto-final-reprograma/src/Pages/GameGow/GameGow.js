@@ -5,12 +5,13 @@ import './GameGow.css'
 const GameGow = () => {
     return(
         <div>
-            <div className='image-container'>
-                <img className='img-gow' src={require('../../Image/gow.jpg')}></img>
+            <div className='image-container-gow'>
+                <img className='img-gow' src={require('../../Image/gow2.png')}></img>
+                <img className='logo-gow' src={require('../../Image/gow-logo.png')}></img>
               </div>
 
             <div className='twitch-containe-gow'>
-            <ReactPlayer url='https://www.twitch.tv/videos/631931328' />
+            <ReactPlayer url='https://www.twitch.tv/videos/661742113' />
             </div>
        </div>
         

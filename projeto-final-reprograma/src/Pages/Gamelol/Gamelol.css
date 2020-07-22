@@ -1,13 +1,19 @@
 .capa-lol{
     width: 100%;
-    object-fit: cover;
-    opacity: 0.5;
+    opacity: 0.4;
 }
 
-.twitch-container-lol{
+.logo-lol{
+    position: absolute;
+    top: 50px;
+    left: 320px;
+    width: 410px;
+}
+
+.twicth-container-lol{
     width: 500px;
     height: 300px;;
     position: absolute;
-    top: 20px;
-    right: 450px;
+    top: 260px;
+    left: 200px;
 }
