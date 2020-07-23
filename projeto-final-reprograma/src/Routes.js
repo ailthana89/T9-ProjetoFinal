@@ -1,8 +1,8 @@
 import React from 'react';
 import Home from './Pages/Home/Home';
 import VideoPlayer from './Pages/VideoPlayer/VideoPlayer';
-import dataJson from './data.json'
-import { BrowserRouter, Switch, Route } from 'react-router-dom'
+import dataJson from './data.json';
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
 const Routes = () =>{
     return(

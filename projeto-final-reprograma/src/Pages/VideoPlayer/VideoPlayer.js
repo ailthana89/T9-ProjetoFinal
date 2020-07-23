@@ -2,23 +2,24 @@ import React from "react";
 import ReactPlayer from "react-player";
 import "./VideoPlayer.css";
 import GameImg from "./../../Image/dawn.jpg";
-import GameLogo from "./../../Image/horizon-log.png"
+import GameLogo from "./../../Image/horizon-log.png";
+import FotoPerfil from "../../Image/klb.jpeg";
 
 
 const VideoPlayer = (props) => {
   return (
     <div>
       <div className="image-container-horizon">
-        <img className={`img-${props.data.id}`} src={GameImg}/>
-        <img className='logo-horizon' src={GameLogo}/>
-      </div>
+        <img className={`img-${props.data.id}`} src={GameImg} alt="Imagem de plano de fundo do jogo"/> 
+        <img className={`logo-${props.data.id}`} src={GameLogo} alt="Logo do jogo"/>
+      </div> 
 
       <div className="card">
         <div className="info-twitch">
           <div>
             <img
-              className="img-card"
-              src={require("../../Image/klb.jpeg")}
+              className={`perfil-${props.data.id}`}
+              src={FotoPerfil}
               alt="Foto Jogadora"
             ></img>
           </div>
@@ -64,13 +65,7 @@ const VideoPlayer = (props) => {
           </div>
         </div>
         <div className="twitch-container-horizon">
-          <ReactPlayer 
-          url={props.data.video}
-          config = {{
-            playing: true,   
- 
-          }}
-          />
+          <ReactPlayer url={props.data.video}/>
         </div>
       </div>
     </div>
