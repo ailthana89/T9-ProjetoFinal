@@ -1,10 +1,9 @@
 import React from 'react';
-import './Section.css'
+import './Section.css';
 
 const Section = () =>{
     return(
             <div> 
-              
                  <div className="text-container">
                     <div className="text1">
                         <p>What we run?</p>
@@ -17,11 +16,10 @@ const Section = () =>{
                     <div className="text3">
                         <p>Welcome to your gaming community!</p>
                     </div>
-                    <div className="text4">
-                        <p>Games</p>
-                    </div>
                  </div>
-               
+                 <div>
+                     <img className="gif" src={require("../../Image/horizon.gif")}></img>
+                 </div>
              </div>
         
     )       

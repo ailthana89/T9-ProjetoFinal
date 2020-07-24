@@ -1,31 +1,21 @@
 import React from "react";
 import ReactPlayer from "react-player";
 import "./VideoPlayer.css";
-import GameImg from "./../../Image/dawn.jpg";
-import GameLogo from "./../../Image/horizon-log.png";
-import FotoPerfil from "../../Image/klb.jpeg";
-
 
 const VideoPlayer = (props) => {
   return (
     <div>
       <div className="image-container-horizon">
-        <img className={`img-${props.data.id}`} src={GameImg} alt="Imagem de plano de fundo do jogo"/> 
-        <img className={`logo-${props.data.id}`} src={GameLogo} alt="Logo do jogo"/>
-      </div> 
+        <img className={`img-${props.data.id}`} src={`${process.env.PUBLIC_URL}/img/${props.data.imgBg}`} alt="Imagem de plano de fundo do jogo"/> 
+        <img className={`logo-${props.data.id}`} src={`${process.env.PUBLIC_URL}/img/${props.data.imgLogo}`} alt="Logo do jogo"/>
+      </div>  
 
       <div className="card">
-        <div className="info-twitch">
-          <div>
-            <img
-              className={`perfil-${props.data.id}`}
-              src={FotoPerfil}
-              alt="Foto Jogadora"
-            ></img>
-          </div>
-          <h1 className="title-card">{props.data.name}</h1>
-          <p className="text-card">{props.data.text}</p>
-          
+          <div className="info-twitch">
+            <img className={`perfil-${props.data.id}`} src={`${process.env.PUBLIC_URL}/img/${props.data.imgPerfil}`} alt="Foto Jogadora"></img>
+            <h1 className="title-card">{props.data.name}</h1>
+            <p className="text-card">{props.data.text}</p>
+
           <div className="redes-container">
             {props.data.socialMedia.twitch && (
               <div>
@@ -63,12 +53,13 @@ const VideoPlayer = (props) => {
               </div>
             )}
           </div>
+         </div>  
         </div>
         <div className="twitch-container-horizon">
           <ReactPlayer url={props.data.video}/>
         </div>
       </div>
-    </div>
+ 
   );
 }
 

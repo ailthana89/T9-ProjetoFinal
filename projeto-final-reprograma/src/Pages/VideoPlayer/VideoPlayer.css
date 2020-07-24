@@ -1,17 +1,84 @@
 .img-horizon{
     width: 100%;
+    opacity: 0.8;
+}
+
+.img-tomb{
+    width: 100%;
+    opacity: 0.6;
+}
+
+.img-gow{
+    width: 100%;
+    opacity: 0.5;
+    height: 870px;
+}
+
+.img-creed{
+    width: 120%;
     opacity: 0.5;
 }
 
+.img-last{
+    width: 100%;
+
+}
+
+.img-zelda{
+    width: 100%;
+    opacity: 0.9;
+}
+
+.img-dandara{
+    width: 100%;
+    opacity: 0.9;
+}
+
+
 .logo-horizon{
     position: absolute;
-    top: 80px;
-    left: 730px;
+    top: 30px;
+    left: 30px;
+    width: 160px;
+} 
+
+.logo-lol{
+    position: absolute;
+    top: 60px;
+    left: 600px;
     width: 300px;
 } 
 
+.logo-gow{
+    position: absolute;
+    top: 60px;
+    left: 600px;
+    width: 400px;
+}
+
+.logo-zelda{
+    position: absolute;
+    top: 20px;
+    left: 650px;
+    width: 250px;
+} 
+.logo-tomb{
+    position: absolute;
+    top: 30px;
+    left: 50px;
+    width: 270px;
+} 
+
 .twitch-container-horizon{
-    width: 500px;
+    width: 400px;
+    height: 300px;;
+    position: absolute;
+    top: 230px;
+    right: 450px;
+}
+
+.twitch-container-tomb{
+    width: 400px;
     height: 300px;;
     position: absolute;
     top: 230px;
@@ -30,13 +97,66 @@
     padding: 20px;
 }
 
-.img-card{
+.perfil-horizon{
     border-radius: 300px;
     width: 100px;
     margin-top: 10px;
     margin-bottom: px;
     margin-left: 70px;
 }
+
+.perfil-tomb{
+    border-radius: 300px;
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: px;
+    margin-left: 70px;
+}
+
+.perfil-lol{
+    border-radius: 300px;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+.perfil-gow{
+    border-radius: 300px;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+.perfil-creed{
+    border-radius: 300px;
+    width: 100px;
+    margin-top: 35px;
+    margin-left: 70px;
+}
+
+.perfil-last{
+    border-radius: 300px;
+    width: 100px;
+    margin-top: 5px;
+    margin-left: 70px;
+}
+
+.perfil-zelda{
+    border-radius: 300px;
+    width: 100px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 70px;
+}
+
+.perfil-dandara{
+    border-radius: 300px;
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 70px;
+}
+
 .title-card{
     margin: 10px;
     margin-left: 70px;
@@ -46,6 +166,8 @@
 
 .text-card{
     margin: 8px;
+    color: ivory;
+    font-size: 12px;
 }
 
 .info-card{
@@ -67,33 +189,4 @@
    margin-bottom: 10px;
 }
 
-p{
-font-size: 12px;
-}
 
- /* Estilos especificos 
- .img-creed{
-    width: 100%;
-    opacity: 0.6;
-}
-
-.twitch-container-creed{
-    width: 500px;
-    height: 300px;;
-    position: absolute;
-    top: 100px;
-    right: 310px;
-}
-
-.img-dandara{
-    width: 100%;
-    opacity: 0.8;
-}
-
-.twitch-container-dandara{
-    width: 500px;
-    height: 300px;;
-    position: absolute;
-    top: 290px;
-    left: 170px;
-}  */

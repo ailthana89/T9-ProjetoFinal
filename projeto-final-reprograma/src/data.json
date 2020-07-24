@@ -9,7 +9,10 @@
       "twitter": "https://twitter.com/klbmedia?lang=en",
       "instagram": "https://www.instagram.com/klb_media/?hl=en"
     },
-    "video": "https://www.twitch.tv/videos/631931328"
+    "video": "https://www.twitch.tv/videos/631931328",
+    "imgBg": "dawn.jpg",
+    "imgLogo": "horizon-log.png",
+    "imgPerfil": "klb.jpeg"
   },
     "GameTombRaider":{
     "name": "Nana6850",
@@ -21,7 +24,10 @@
       "twitter": "",
       "instagram": "https://www.instagram.com/naciye.svn/"
     },
-    "video": "https://www.twitch.tv/videos/682488544"
+    "video": "https://www.twitch.tv/videos/682488544",
+    "imgBg": "tomb.jpg",
+    "imgLogo": "tomb-logo.png",
+    "imgPerfil": "nana.png"
   },
     "Gamelol":{
     "name": "StreamieBR",
@@ -33,7 +39,10 @@
       "twitter": "https://twitter.com/streamiebr/",
       "instagram": "https://www.instagram.com/streamiebr/"
     },
-    "video": "https://www.twitch.tv/videos/676054587"
+    "video": "https://www.twitch.tv/videos/676054587",
+    "imgBg": "lol-capa.jpg",
+    "imgLogo": "League_of_Legends_logo.png",
+    "imgPerfil": "streamie.jpg"
   },
     "GameGow":{
     "name": "hedwidgeon",
@@ -45,7 +54,10 @@
       "twitter": "https://twitter.com/hedwidgeon",
       "instagram": ""
     },
-    "video": "https://www.twitch.tv/videos/661742113"
+    "video": "https://www.twitch.tv/videos/661742113",
+    "imgBg": "gow2.png",
+    "imgLogo": "gow-logo.png",
+    "imgPerfil": "hedwidgeon.png"
   },
     "GameCreed":{
     "id": "creed",
@@ -57,19 +69,25 @@
       "twitter": "",
       "instagram": "https://www.instagram.com/karaudo_wl/"
     },
-    "video": "https://www.twitch.tv/videos/682548423"
+    "video": "https://www.twitch.tv/videos/682548423",
+    "imgBg": "lib.jpg",
+    "imgLogo": "",
+    "imgPerfil": "Karaudo.png"
   },
     "GameLast":{
     "name": "storymodebae",
     "id": "last",
     "text":
-      "Briana, but you can call me Bri. I've been gaming since I was about 5 years old, with my first game being Crash Bandicoot 2, then Spyro and Frogger shortly after. I enjoy anything with a good story, hence the name Storymode Bae. I also enjoy eating and being extra and goofy, so please expect that throughout my streams. I love meeting new people, so please don't hesitate to pop by just to say hi!",
+      "Briana, but you can call me Bri. I've been gaming since I was about 5 years old, with my first game being Crash Bandicoot 2, then Spyro and Frogger shortly after. I enjoy anything with a good story, hence the name Storymode Bae.",
     "socialMedia": {
       "twitch": "https://www.twitch.tv/storymodebae",
       "twitter": "https://twitter.com/storymodebae",
       "instagram": "https://www.instagram.com/storymodebae/"
     },
-    "video": "https://www.twitch.tv/videos/678801520"
+    "video": "https://www.twitch.tv/videos/678801520",
+    "imgBg": "last.png",
+    "imgLogo": "",
+    "imgPerfil": "storymodebae.png"
   },
     "GameZelda":{
     "name": "BlackGirlGamers",
@@ -81,7 +99,10 @@
       "twitter": "https://twitter.com/blackgirlgamers",
       "instagram": "https://www.instagram.com/theblackgirlgamers/"
     },
-    "video": "https://www.twitch.tv/videos/663047246"
+    "video": "https://www.twitch.tv/videos/663047246",
+    "imgBg": "zelda.jpg",
+    "imgLogo": "logo-zelda.png",
+    "imgPerfil": "bgg.png"
   },
     "GameDandara":{
     "name": "underlineaisu",
@@ -93,7 +114,10 @@
       "twitter": "https://twitter.com/_aisu",
       "instagram": "https://www.instagram.com/_aisu/"
     },
-    "video": "https://www.twitch.tv/videos/665092155"
+    "video": "https://www.twitch.tv/videos/665092155",
+    "imgBg": "dandara.jpg",
+    "imgLogo": "",
+    "imgPerfil": "underlineaisu.png"
   }
     
 }

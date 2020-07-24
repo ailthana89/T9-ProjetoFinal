@@ -3,6 +3,8 @@
     padding: 110px;
     margin-left: 100px;
     margin-right: 100px;
+    font-size: 20px;
+    margin-bottom: 70px;
 }
 
 .text-container div:hover{
@@ -14,11 +16,11 @@
     border-width: 2px;
     padding: 40px;
     position: absolute;
-    top: 600px;
-    left: 200px;
+    top: 535px;
+    left: px;
     color: #572c72;
     font-family: 'Montserrat', sans-serif;
-    font-size: 16px;
+    font-size: 13px;
     
 }
 
@@ -27,11 +29,11 @@
     border-width: 2px;
     padding: 40px;
     position: absolute;
-    top: 600px;
-    right: 190px;
+    top: 535px;
+    right: 205px;
     color: #572c72;
     font-family: 'Montserrat', sans-serif;
-    font-size: 16px;
+    font-size: 13px;
 }
 
 .text3{
@@ -39,25 +41,16 @@
     border-width: 1px;
     padding: 60px;
     position: absolute;
-    top: 590px;
-    right: 505px;
+    top: 525px;
+    right: 560px;
     color:#8350a3;
     font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
+    font-size: 14px;
 }
 
-.text4{
-    border-style: solid;
-    border-width: 1px;
-    padding-left: 100px;
-    padding-right: 100px;
-    padding-top: 20px;
-    padding-bottom: 20px;;
-    position: absolute;
-    top: 815px;
-    right: 650px;
-    color: #532e6b;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 16px;
+.gif{
+    width: 100%;
 }
+
+
 

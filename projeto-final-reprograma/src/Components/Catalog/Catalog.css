@@ -1,3 +1,28 @@
+.title-catalog{
+    color: #8350a3;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    font-size: 18px;
+    margin-top: 100px;
+    margin-left: 20px;
+    border-bottom: 1px solid #532e6b;
+    padding-bottom: 5px;
+      
+}
+
+.title-catalog2{
+    color: #8350a3;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    border-bottom: 1px solid #532e6b;
+    padding-bottom: 5px;
+      
+}
+
 .text-main {
     color: #B258EA;
     text-align: center;
@@ -7,14 +32,11 @@
 .catalog-images{
     margin-left: 200px;
     margin-right: 200px;
-    
-   
 }
 
 .catalog-images img:hover, img:active{
     opacity: 15%;
     width: 100%;
-    
 }
 
 .catalog-images-line1{
@@ -22,7 +44,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
-    margin-top: 150px;
+    margin-top: 70px;
     margin-bottom: 70px;
     
 }
@@ -40,6 +62,67 @@
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
-    margin-bottom: 100px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.catalog-images-line4{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+
+.cards-team{
+    display: flex;
+    flex-direction: column;
+    color: cornsilk;
+    margin-left: 20px;
+    margin-right: 50px;
+    padding: 20px;
+}
+
+.img-text-card{
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    color: cornsilk;
+    margin-left: 50px; 
+    margin: 10px;
+}
+
+.img-queens{
+    display: flex;
+    align-items: center;
+    border: 1px solid #8350a3;
+    padding: 20px;
+    margin: 10px;
+    text-align: start;
+}
+
+.img-rainbow{
+    display: flex;
+    align-items: center;
+    border: 1px solid #8350a3;
+    padding: 20px;
+    margin: 10px;
+    text-align: start;
+}
+.img-transvengers{
+    display: flex;
+    align-items: center;
+    border: 1px solid #8350a3;
+    padding: 20px;
+    margin: 10px;
+    text-align: start;
+}
+.img-bgg{
+    display: flex;
+    align-items: center;
+    border: 1px solid #8350a3;
+    padding: 20px;
+    margin: 10px;
+    text-align: start;
 }
 
